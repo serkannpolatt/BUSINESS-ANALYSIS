@@ -1,4 +1,4 @@
-# BUSINESS ANALYSIS
+# Business Analysis
 ## Business Analysis is the practice of recognizing business needs and determining solutions to business problems. The goal of business analysis is to improve organizational efficiency and achieve specific business objectives. A business analyst is responsible for identifying areas for improvement within a company, and then developing and implementing solutions to address these issues.
 
 ## Key Responsibilities of a Business Analyst
